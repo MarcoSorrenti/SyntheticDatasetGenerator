@@ -1,1 +1,1 @@
-Software che permette di generare un dataset sintetico che simula l'acquisizione fotogrammetrica di un oggetto per la sua successiva ricostruzione 3D.
+Software that allows you to generate a synthetic dataset that simulates the photogrammetric acquisition of an object for its subsequent 3D reconstruction.
