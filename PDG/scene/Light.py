@@ -1,5 +1,5 @@
 import bpy
-import math, mathutils
+import math
 
 from ..utils.Utils import activate_collection
 

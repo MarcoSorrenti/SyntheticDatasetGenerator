@@ -10,8 +10,7 @@ models_data/
 display_results.py
 learning_curve_p2p.py
 learning_curve.py
-loss_p2p.log
-losses.csv
+unet_losses.csv
 p2p_losses.csv
 preprocess_pix2pix.py
 test.py
